@@ -1,4 +1,5 @@
 lion Mingda
+lion contributorA
 tiger
 leopard
 turtle
